@@ -54,4 +54,3 @@ for($i=1; $i < count($data);$i++){
 ?>
 ```
 
-oke siip?
