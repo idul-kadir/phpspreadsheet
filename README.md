@@ -5,9 +5,13 @@ untuk melakukan pengambilan data dari file excell pertama kita harus mendownload
 apabila gagal dalam melakukan download library, biasanya extensi php-gd tidak terinstall atau dalam keadaan tidak aktif. untuk mengaktifkannya ada beberapa cara sesuai dengan tipe web server yang kita gunakan
 
 **untuk linux debian/ubuntu**
+
   _sudo apt-get update_
+  
   _sudo apt-get install php-gd_
+  
 setelah itu restart apache2 atau nginx
+
 
 untuk XAMPP, WAMP, MAMP
   buka file php.ini (biasanya ada di C:\xampp\php\php.ini)
