@@ -22,7 +22,8 @@ setelah itu restart apache2 atau nginx
 
 **cara menggunakannya di php**
 
-  ```<?php
+  ```
+<?php
 require 'modul-php-excell/vendor/autoload.php';
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
@@ -43,7 +44,7 @@ for($i=1; $i < count($data);$i++){
   echo $data[$i][0]. '    '.$data[$i][1]. '    ' .$data[$i][2];
   echo '<br>'; 
 }
-?>```
+?>
 ```
 
 oke siip?
