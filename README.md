@@ -1,5 +1,5 @@
 untuk melakukan pengambilan data dari file excell pertama kita harus mendownload phpspreadsheet dengan composer
-  _composer require phpoffice/phpspreadsheet_
+  '''composer require phpoffice/phpspreadsheet_
 apabila gagal dalam melakukan download library, biasanya extensi php-gd tidak terinstall atau dalam keadaan tidak aktif. untuk mengaktifkannya ada beberapa cara sesuai dengan tipe web server yang kita gunakan
 
 **untuk linux debian/ubuntu**
