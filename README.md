@@ -6,9 +6,9 @@ apabila gagal dalam melakukan download library, biasanya extensi php-gd tidak te
 
 **untuk linux debian/ubuntu**
 
-  ```sudo apt-get update
+  ```sudo apt-get update```
   
-  sudo apt-get install php-gd```
+  ```sudo apt-get install php-gd```
   
 setelah itu restart apache2 atau nginx
 
