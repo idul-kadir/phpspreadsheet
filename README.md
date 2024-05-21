@@ -23,7 +23,7 @@ setelah itu restart apache2 atau nginx
   
   restart apache
 
-***
+___
 
 ### Implementasi
 
