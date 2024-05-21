@@ -14,6 +14,7 @@ setelah itu restart apache2 atau nginx
 
 
 **untuk XAMPP, WAMP, MAMP**
+
   buka file php.ini (biasanya ada di C:\xampp\php\php.ini)
   
   aktifkan extension=gd dengan menghapus tanda semicolon (;) didepannya
