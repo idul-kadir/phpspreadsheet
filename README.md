@@ -1,4 +1,4 @@
-### Persiapan
+## Persiapan
 
 untuk melakukan pengambilan data dari file excell pertama kita harus mendownload phpspreadsheet dengan composer
 
@@ -25,7 +25,7 @@ setelah itu restart apache2 atau nginx
 
 ___
 
-### Implementasi
+## Implementasi
 
 **cara menggunakannya di php**
 
